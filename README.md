@@ -5,7 +5,7 @@
 # Descrição:
 
 - O objetivo do projeto é de compreender o uso de frameworks para desenvolvimento web.
-- Nesse projeto foram utilizadas as tecnologias de base como: HTML, CSS e JavaScript, em conjunto do framework React JS e a bibliotéca Axios.
+- Nesse projeto foram utilizadas as tecnologias de base como: HTML, CSS e JavaScript, em conjunto do framework React JS e a biblioteca Axios.
 
 # Funcionalidades:
 
